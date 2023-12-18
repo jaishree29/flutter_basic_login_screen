@@ -7,6 +7,8 @@ This is a simple login screen made using flutter. With the help of this small pr
 Here are some code snippets and screenshots: 
 
 <img width="960" alt="image" src="https://github.com/jaishree29/flutter_basic_login_screen/assets/110761571/d3187ae2-2502-4392-883a-c2d09f25f7d7">
+<br>
+<br>
 <img width="960" alt="image" src="https://github.com/jaishree29/flutter_basic_login_screen/assets/110761571/492c228f-d90e-45c0-8aac-67dcdb9a710f">
 
 
