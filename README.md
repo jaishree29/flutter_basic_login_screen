@@ -1,16 +1,12 @@
-# login_signup
+# Login Screen
 
-A new Flutter project.
+This is a simple login screen made using flutter. With the help of this small project I gained knowledge about how to use flutter libraries and how to import google fonts in our flutter project with the help of pubspec.yaml file. It was great building it and I look forward to learn more!!
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Here are some code snippets and screenshots: 
 
-A few resources to get you started if this is your first Flutter project:
+<img width="960" alt="image" src="https://github.com/jaishree29/flutter_basic_login_screen/assets/110761571/d3187ae2-2502-4392-883a-c2d09f25f7d7">
+<img width="960" alt="image" src="https://github.com/jaishree29/flutter_basic_login_screen/assets/110761571/492c228f-d90e-45c0-8aac-67dcdb9a710f">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
